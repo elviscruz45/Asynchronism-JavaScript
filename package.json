@@ -1,0 +1,27 @@
+{
+  "name": "async",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/2.challenge.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elviscruz45/Asynchronism-JavaScript.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "elvis cruz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elviscruz45/Asynchronism-JavaScript/issues"
+  },
+  "homepage": "https://github.com/elviscruz45/Asynchronism-JavaScript#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.10",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "type":"module"
+}
